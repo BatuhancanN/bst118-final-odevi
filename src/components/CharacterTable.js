@@ -3,7 +3,7 @@ import CharacterItem from './CharacterItem'
 
 const CharacterTable = ({items,isLoading}) => {
     return isLoading ? <div class="x alert alert-danger" role="alert">
-    GORUNTULEMEK ICIN ARAMA YAPIN!
+    API ILE BAGLANTI KURULUYOR...
   </div> :
     <section className="contents">
         {
