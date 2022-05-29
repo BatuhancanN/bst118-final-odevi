@@ -1,4 +1,4 @@
-Bu uygulama ile marvel dünyasına ait tüm karakterler hakkında bilgiye ulaşabilirsiniz. Tek yapmanız gerek arama yapmak.
+Bu uygulama ile marvel dünyasına ait tüm karakterler hakkında bilgiye ulaşabilirsiniz. Tek yapmanız gereken arama yapmak.
 
 Uygulama içeriği:
 
